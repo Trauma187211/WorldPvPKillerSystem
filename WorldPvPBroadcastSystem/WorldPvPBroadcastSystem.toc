@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: World PvP Broadcast System
+## Notes: Real-time world PvP kill feed and streak titles
+## Author: TraumaWoW
+## Version: 0.1
+
+WorldPvPBroadcastSystem.lua
